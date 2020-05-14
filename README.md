@@ -3,7 +3,7 @@
 
 distributable, serverless, and customizable unique ID generator based on [Snowflake](https://github.com/twitter/snowflake/tree/snowflake-2010/)
 
-the code fork from [maylily](https://github.com/shimataro/maylily), change to nodejs not mjs, remove not need dependence
+the code fork from [maylily](https://github.com/shimataro/maylily), change source to nodejs instead of mjs, and remove no need dependence
 
 ## Features
 
