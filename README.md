@@ -1,5 +1,8 @@
 # Auto increment id generate
 
+![Node.js CI](https://github.com/theowenyoung/id-auto-increment/workflows/Node.js%20CI/badge.svg)
+![npm](https://img.shields.io/npm/v/id-auto-increment)
+
 
 Auto generate increment id, unique guarantee, custom bit length, distributable, serverless, and customizable unique ID generator based on [Snowflake](https://github.com/twitter/snowflake/tree/snowflake-2010/)
 
