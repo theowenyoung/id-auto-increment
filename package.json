@@ -1,6 +1,10 @@
 {
   "name": "id-auto-increment",
-  "version": "1.0.0",
+  "description": "Auto generate increment id, unique guarantee, custom bit length, distributable, serverless, and customizable unique ID generator based on [Snowflake]",
+  "keywords": [
+    "snowflake","flake","auto increment","id","unique id","severless"
+  ],
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {

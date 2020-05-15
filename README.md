@@ -1,7 +1,7 @@
 # Auto increment id generate
 
 
-distributable, serverless, and customizable unique ID generator based on [Snowflake](https://github.com/twitter/snowflake/tree/snowflake-2010/)
+Auto generate increment id, unique guarantee, custom bit length, distributable, serverless, and customizable unique ID generator based on [Snowflake](https://github.com/twitter/snowflake/tree/snowflake-2010/)
 
 the code fork from [maylily](https://github.com/shimataro/maylily), change source to nodejs instead of mjs, and remove no need dependence
 
